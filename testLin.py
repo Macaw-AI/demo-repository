@@ -1,2 +1,2 @@
 x = "a"
-print(x  )
+print(x)

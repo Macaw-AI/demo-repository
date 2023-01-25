@@ -1,2 +1,2 @@
-x="a"
-print( x )
+x = "a"
+print(x)

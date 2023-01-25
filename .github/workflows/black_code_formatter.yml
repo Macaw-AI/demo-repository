@@ -24,5 +24,5 @@ jobs:
           git config --global user.name 'jakub-ner'
           git config --global user.email 'kubaner1@gmail.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git commit -am "Automated autoyapf fixes"
+          git commit -am "Automated .py formatting"
           git push
